@@ -1,0 +1,26 @@
+body  {
+  color: gray;
+  padding: 30px;
+}
+
+em  {
+  color: black;
+}
+
+h1  {
+  color: black;
+}
+
+blockquote  {
+  padding: 10px;
+  margin: 10px 0;
+  border-left: 3px solid gray;
+  font-style: italic;
+}
+
+blockquote p {
+  margin: 0;
+}
+blockquote em {
+  font-style: normal;
+}
